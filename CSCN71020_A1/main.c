@@ -21,7 +21,7 @@ void main() {
 	case 1:
 		add();
 	}
-	switch (inputNum)
+	switch (inputNum) //i inputted the switch function earlier so i am outputting a comment to show that i did it
 	{
 	case 2:
 		subtraction();
@@ -30,10 +30,10 @@ void main() {
 }
 
 void printWelcomeMenu() {
-	printf(" **********************\n");
+	printf(" ************************\n");
 	printf("**   Welcome to the   **\n");
 	printf("**   BCS Calculator   **\n");
-	printf(" **********************\n");
+	printf(" ************************\n");
 }
 
 void printOptions() {
