@@ -21,7 +21,7 @@ void main() {
 	case 1:
 		add();
 	}
-	switch (inputNum) //i inputted the switch function earlier so i am outputting a comment to show that i did it
+	switch (inputNum) //when intiailly inputting the subtraction function, i fixed the bug in step 5 accidentally. 
 	{
 	case 2:
 		subtraction();
